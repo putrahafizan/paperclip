@@ -1,0 +1,10 @@
+# Runtime state — not tracked in git
+channel-mode.env
+daemon.pid
+injector.pid
+daemon.log
+injector.log
+injector.log
+pending-questions/
+responses/
+trigger-task.json
